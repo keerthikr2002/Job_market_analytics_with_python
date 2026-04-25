@@ -5,7 +5,7 @@ This repository contains a comprehensive collection of Jupyter Notebooks focused
 ---
 ## 📂 Project Structure
 
-### 1. Analytics of Jobs Data
+###  Analytics of Jobs Data
 Projects focused on real-world data science job trends and salary analysis.
 * **1_EDA_Intro.ipynb**: Introduction to Exploratory Data Analysis.
 * **2_Skill_Demand.ipynb**: Analysis of the most in-demand skills.
@@ -13,33 +13,7 @@ Projects focused on real-world data science job trends and salary analysis.
 * **4_Salary_Analysis.ipynb**: Deep dive into salary distributions and factors.
 * **5_Optimal_Skills.ipynb**: Identifying high-pay, high-demand skill sets.
 
-### 2. Data Analysis Libraries
-A deep dive into the technical usage of core Python libraries.
 
-#### 🐼 Pandas
-* **1_pandas_accessing_data.ipynb**: Loading and accessing data structures.
-* **2_pandas_data_cleaning.ipynb**: Handling missing values and data formatting.
-* **3_pandas_data_management.ipynb**: Efficiently managing large datasets.
-* **4_pandas_pivot_table.ipynb**: Summarizing data with pivot tables.
-* **5_pandas_index_management.ipynb**: Mastering indexing and reindexing.
-* **6_jobs_in_demand.ipynb**: Analysis of top job roles.
-* **7_pandas_merge_dataframes.ipynb**: Joining datasets using logic similar to SQL.
-* **8_Pandas_Concat_Dataframes.ipynb**: Concatenating and stacking data.
-* **10_pandas_applying_functions.ipynb**: Using apply, map, and applymap.
-* **11_pandas_explode.ipynb**: Working with nested list data in columns.
-* **12_Exercise_Trending_skills.ipynb**: Practical exercise on skill trends.
-
-#### 📊 Matplotlib & Seaborn
-* **13_Matplotlib_Format_Charts.ipynb**: Styling, colors, and labels.
-* **14_matplotlib_pie_plots.ipynb**: Creating and customizing pie charts.
-* **15_Matplotlib_Scatter_Plots.ipynb**: Visualizing correlations.
-* **16_Matplotlib_Advanced_Customization.ipynb**: Figure subplots and complex layouts.
-* **17_Matplotlib_Histograms.ipynb**: Frequency distributions.
-* **18_Matplotlib_Box_plots.ipynb**: Outlier detection and quartile analysis.
-* **19_Exercise_skill_pay_analysis.ipynb**: Exercise on pay vs. skill correlation.
-* **20_seaborn_intro.ipynb**: Statistical data visualization simplified.
-
----
 
 ## 🚀 Getting Started
 
