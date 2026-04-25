@@ -1,6 +1,6 @@
 # Python for Data Analysis
 
-This repository contains a comprehensive collection of Jupyter Notebooks focused on data analysis using Python. It covers essential libraries like **Pandas**, **Matplotlib**, and **Seaborn**, along with practical projects analyzing job market data.
+This repository contains  analyzing job market data.
 
 ---
 ## 📂 Project Structure
